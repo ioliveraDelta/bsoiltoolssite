@@ -1,0 +1,8 @@
+[10-May-2022 12:12:25 UTC] PHP Notice:  Undefined index: usuarioID in /home2/pinetay4/public_html/bs/admin/inc/navbar.php on line 211
+[10-May-2022 12:12:25 UTC] PHP Notice:  Undefined index: usuarioNome in /home2/pinetay4/public_html/bs/admin/inc/navbar.php on line 223
+[10-May-2022 12:12:25 UTC] PHP Notice:  Undefined index: usuarioEmail in /home2/pinetay4/public_html/bs/admin/home.php on line 109
+[10-May-2022 12:12:25 UTC] PHP Notice:  Undefined index: usuarioNome in /home2/pinetay4/public_html/bs/admin/home.php on line 109
+[10-May-2022 12:12:25 UTC] PHP Notice:  Undefined index: usuarioID in /home2/pinetay4/public_html/bs/admin/inc/footer.php on line 122
+[24-Aug-2022 13:18:30 UTC] PHP Warning:  Undefined array key "usuarioNivel" in /home2/pinetay4/public_html/bs/admin/inc/session_start.php on line 3
+[24-Aug-2022 16:50:00 UTC] PHP Warning:  Undefined array key "usuarioNivel" in /home2/pinetay4/public_html/bs/admin/inc/session_start.php on line 3
+[04-Oct-2022 17:24:52 UTC] PHP Warning:  Undefined array key "usuarioNivel" in /home2/pinetay4/public_html/bs/admin/inc/session_start.php on line 3
